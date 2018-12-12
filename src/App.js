@@ -109,7 +109,7 @@ class App extends Component {
           <Footer style={{
             textAlign: 'center',
           }}>
-            Source code is here.
+            Source code is <a rel="noopener noreferrer" target="_blank" href="https://github.com/ironsoul0/gpa-calculator">here</a>.
             Created by <a rel="noopener noreferrer" target="_blank" href="https://www.ironsoul.me">ironsoul</a>.
           </Footer>
         </div>
